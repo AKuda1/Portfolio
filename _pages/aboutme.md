@@ -10,7 +10,7 @@ permalink: /aboutme/
 
 <img decoding="async" loading="lazy" class="wp-image-1556" src="https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-48-1.webp" alt="" width="1024" height="256" data-recalc-dims="1">
 
-About Me:
+**About Me:**
 
 Hello! I'm a passionate and results-driven professional with a strong background in project management who is currently undergoing an exciting transition into the world of data analysis. My journey has been marked by a continuous pursuit of knowledge and a thirst for new challenges, and I'm eager to share my story with you.
 
