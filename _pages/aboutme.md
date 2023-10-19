@@ -1,7 +1,7 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/utah.jpg
+  overlay_image: assets/images/About Me Background.webp
   caption: "Photo Credit: **Healthyresumes.com**"
 permalink: /aboutme/
 ---
