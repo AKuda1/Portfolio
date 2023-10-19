@@ -1,7 +1,7 @@
 ---
 classes: wide
 header:
-  overlay_image: /assets/images/tools.jpg
+  overlay_image: assets/images/PORTFOLIO.jpg
 permalink: /portfolio/index.html
 date: 2018-01-07
 
