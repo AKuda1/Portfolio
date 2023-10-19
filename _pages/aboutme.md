@@ -31,7 +31,7 @@ Hello! I'm a passionate and results-driven professional with a strong background
 Thank you for joining me on this journey as I transition from a project manager to a data analyst. I'm enthusiastic about what the future holds and the opportunities to make a meaningful impact in this exciting field. If you have any insights, advice, or opportunities to share, please feel free to reach out. Let's connect and grow together in the world of data analysis!
 
 
-[1]: mailto: peter@pwills.com
+[1]: mailto: ajkuda@gmail.com
 
 [2]: /assets/docs/thesis.pdf
 
