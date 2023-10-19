@@ -8,8 +8,6 @@ permalink: /aboutme/
 
 # About Me
 
-**About Me:**
-
 Hello! I'm a passionate and results-driven professional with a strong background in project management who is currently undergoing an exciting transition into the world of data analysis. My journey has been marked by a continuous pursuit of knowledge and a thirst for new challenges, and I'm eager to share my story with you.
 
 **Background:** With several years of experience as a project manager, I have developed a keen eye for detail, effective communication skills, and the ability to drive complex projects to successful outcomes. Throughout my career, I've had the privilege of working with diverse teams, managing budgets, and meeting tight deadlines – skills that I believe are transferable to the field of data analysis.
