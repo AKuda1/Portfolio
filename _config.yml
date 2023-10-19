@@ -29,7 +29,7 @@ minimal_mistakes_skin: "dirt"
 # settings for author profile
 author:
   name   : "AJ Kuda"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "assets/images/HEADSHOT.jpg"
   bio    : "Project Manager in process of transitioning to Data Analyst."
   location: "Chicago, IL"
   github : AKuda1
