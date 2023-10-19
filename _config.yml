@@ -1,10 +1,10 @@
 # Configs for pwills.com
 
-title: "pwills.com"
-name: "pwills.com"
-email: peter@pwills.com
-url: "http://www.pwills.com"
-repository: "peterewills/peterewills.github.io"
+title: "akuda.com"
+name: "akuda.com"
+email: ajkuda@gmail.com
+url: "http://www.akuda.com"
+repository: "AKuda1/akuda.github.io"
 
 include:
   - _pages
@@ -28,13 +28,13 @@ minimal_mistakes_skin: "dirt"
 
 # settings for author profile
 author:
-  name   : "Peter Wills"
+  name   : "AJ Kuda"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I enjoy writing about things I'm interested in - mostly computing, math, physics, and software engineering."
-  location: "Ithaca, NY"
-  github : peterewills
-  linkedin: peterewills
-  email  : peter@pwills.com
+  bio    : "Project Manager in process of transitioning to Data Analyst."
+  location: "Chicago, IL"
+  github : AKuda1
+  linkedin: AJ Kuda
+  email  : ajkuda@gmail.com
 
 
 # # comments by disqus
