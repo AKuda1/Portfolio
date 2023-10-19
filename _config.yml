@@ -1,10 +1,10 @@
-# Configs for pwills.com
+# Configs for akuda.com
 
 title: "akuda.com"
 name: "akuda.com"
 email: ajkuda@gmail.com
 url: "http://www.akuda.com"
-repository: "AKuda1/akuda.github.io"
+repository: "akuda.github.io"
 
 include:
   - _pages
