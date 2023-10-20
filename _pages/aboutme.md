@@ -13,7 +13,7 @@ Hello! I'm a passionate and results-driven professional with a strong background
 
 **Why Data Analysis?** My transition into data analysis is motivated by a profound curiosity about the stories that data can tell. I've always been fascinated by the power of data to inform decision-making, improve processes, and drive business growth. As a project manager, I often found myself relying on data-driven insights to make strategic decisions, which led me to explore this field further.
 
-**Education and Training:** To prepare for this transition, I have invested time in acquiring the necessary skills and knowledge. I've completed courses and certifications in data analysis, statistical analysis, data visualization, and programming languages like Python and R. I believe that this foundation, combined with my project management experience, will allow me to excel in this new role.
+**Education and Training:** To prepare for this transition, I have invested time in acquiring the necessary skills and knowledge. I've completed courses and certifications in data analysis, statistical analysis, data visualization, and programming languages such as Python. I believe that this foundation, combined with my project management experience, will allow me to excel in this new role.
 
 **Skills:** Some of the skills I've developed as a project manager, such as problem-solving, critical thinking, and the ability to manage multiple tasks simultaneously, are directly applicable to data analysis. I'm also well-versed in project management software and tools, which can be valuable in the context of data projects.
 
