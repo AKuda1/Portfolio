@@ -31,15 +31,9 @@ feature_row:
 
 # Portfolio
 
-Here you'll find summaries of the major projects I've done over the years, which
-are representative of my skills and interests. These projects span everything
-from mathematical physics to machine learning, from finance to advertising, from
-the theoretical to the practical.
+I am delighted to have you here, exploring my data analyst portfolio. As a dedicated data analyst, I've had the privilege of working with diverse datasets, unraveling insights, and driving data-informed decisions. This portfolio is a testament to my passion for transforming raw data into meaningful stories that empower organizations to thrive.
 
-The discussion here is generally non-technical; for the research projects,
-related publications can be found in [my resume][1]. There are also links to
-documents at the top of each page, which offer more depth. If you're curious
-about technical details I've glossed over, feel free to [contact me][2].
+In a world increasingly driven by data, the role of a data analyst is ever more critical. In my career, I've seen firsthand how data-informed decisions can lead to greater efficiency, cost savings, improved customer experiences, and, ultimately, business success. I'm passionate about contributing to this transformation and using my skills to help organizations thrive in a data-driven era.
 
 
 <div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
