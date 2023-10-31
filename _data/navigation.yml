@@ -12,6 +12,15 @@ main:
   #   url: /blog/
 
 # sidebar for portfolio
+portfolio:
+  name   : "AJ Kuda"
+  avatar : "assets/images/HEADSHOT.jpg"
+  bio    : "Junior MIS Sudent at NIU"
+  location: "Chicago, IL"
+  github : AKuda1
+  linkedin: "ajkuda/"
+  email  : "ajkuda@gmail.com"
+# main sidebar
 author:
   name   : "AJ Kuda"
   avatar : "assets/images/HEADSHOT.jpg"
