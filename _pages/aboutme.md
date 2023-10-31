@@ -1,5 +1,5 @@
 ---
-title: "AJ's Portfolio"
+title: " "
 header:
   overlay_image: assets/images/About Me Background.webp
 permalink: /aboutme/
