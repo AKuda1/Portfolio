@@ -1,6 +1,6 @@
 ---
 title: "AJ's Portfolio"
-header: An inside look at my Data Analysis progression
+header:
   overlay_image: assets/images/BANNER 2.png
 permalink: /Home/
 ---
