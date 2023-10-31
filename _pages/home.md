@@ -1,7 +1,7 @@
 ---
 title: " "
 header:
-  overlay_image: assets/images/About Me Background.webp
+  overlay_image: assets/images/BANNER 2.png
 permalink: /Home/
 ---
 
