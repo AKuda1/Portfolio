@@ -5,7 +5,7 @@ main:
   - title: "About Me"
     url: /aboutme/  
   - title: "Portfolio"
-    url: /_pages/Portfolio.md/
+    url: /Portfolio/
   - title: "Resume"
     url: assets/docs/Albert_Kuda Resume.pdf
   # - title: "Blog"
