@@ -78,7 +78,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      author_profile: false
+      author_profile: true
       excerpt: ""
       sidebar:
         nav: "portfolio"
