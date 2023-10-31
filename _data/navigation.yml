@@ -13,7 +13,6 @@ main:
 
 # sidebar for portfolio
 portfolio:
- author:
   name   : "AJ Kuda"
   avatar : "assets/images/HEADSHOT.jpg"
   bio    : "Junior MIS Sudent at NIU"
