@@ -4,15 +4,6 @@ header:
   overlay_image: assets/images/PORTFOLIO.jpg
 permalink: /portfolio/index.html
 date: 2018-01-07
-
-author:
-  name   : "AJ Kuda"
-  avatar : "assets/images/HEADSHOT.jpg"
-  bio    : "Junior MIS Sudent at NIU"
-  location: "Chicago, IL"
-  github : AKuda1
-  linkedin: "ajkuda/"
-  email  : "ajkuda@gmail.com"
   
 feature_row:
   - image_path: assets/images/ai_head.jpg
