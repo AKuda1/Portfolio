@@ -1,6 +1,6 @@
 ---
 title: "AJ's Portfolio"
-excerpt: "*An inside look at my Data Analysis progression*"
+excerpt: "*An inside look at my Data Science progression*"
 header:
   overlay_image: assets/images/BANNER 2.png
 permalink: /Home/
@@ -12,4 +12,4 @@ Thank you for taking time out of your day to view my professional progression th
 
 ## Certificates
 
-Google Data Analytics Certificate
+IBM Data Science Certification
