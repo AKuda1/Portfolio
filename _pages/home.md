@@ -9,3 +9,7 @@ permalink: /Home/
 # Welcome!
 
 Thank you for taking time out of your day to view my professional progression through data analysis. Learn more about me and click on the portfolio link above to see projects that I have recently completed.
+
+## Certificates
+
+Google Data Analytics Certificates
