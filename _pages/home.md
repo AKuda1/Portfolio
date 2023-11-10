@@ -12,4 +12,4 @@ Thank you for taking time out of your day to view my professional progression th
 
 ## Certificates
 
-Google Data Analytics Certificates
+Google Data Analytics Certificate
