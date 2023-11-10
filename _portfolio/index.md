@@ -31,7 +31,7 @@ feature_row:
 
 # Portfolio
 
-I am delighted to have you here, exploring my data analyst portfolio. This portfolio is a testament to my passion for transforming raw data into meaningful stories that empower organizations to thrive.
+I am delighted to have you here, exploring my data science portfolio. This portfolio is a testament to my passion for transforming raw data into meaningful stories that empower organizations to thrive.
 
 In a world increasingly driven by data, the role of a data analyst is ever more critical. In my career, I've seen firsthand how data-informed decisions can lead to greater efficiency, cost savings, improved customer experiences, and, ultimately, business success. I'm passionate about contributing to this transformation and using my skills to help organizations thrive in a data-driven era.
 
