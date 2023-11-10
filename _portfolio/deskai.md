@@ -8,7 +8,7 @@ toc: true
 toc_label: "Contents"
 ---
 
-# DeskAI: Automated Campaign Management for Advertisers
+# Cereal: Is it healthy?
 
 The bulk of my time at [the Trade Desk][1] has been spent conceptualizing, testing,
 and prototyping a machine learning algorithm which automates the process of
