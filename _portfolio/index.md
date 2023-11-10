@@ -7,7 +7,7 @@ date: 2018-01-07
   
 feature_row:
   - image_path: assets/images/ai_head.jpg
-    alt: "DeskAI"
+    alt: "Cereal"
     title: "Cereal: Is it healthy?"
     excerpt: "An Excel analysis depicting the nutritinoal factors of the most popular ceral brands."
     url: "/portfolio/deskai/"
