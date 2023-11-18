@@ -21,6 +21,8 @@ Hello! I'm a passionate and results-driven professional with a strong background
 
 **Goals:** As I transition into data science, my goal is to leverage data to drive insights, solve complex problems, and support data-informed decision-making within organizations. I am excited about the opportunity to apply my project management experience to data projects, ensuring they are well-organized, efficient, and yield actionable results.
 
+**Thanks for reading!**
+
 
 
 
