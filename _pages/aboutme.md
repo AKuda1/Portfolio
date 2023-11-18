@@ -21,7 +21,7 @@ Hello! I'm a passionate and results-driven professional with a strong background
 
 **Goals:** As I transition into data science, my goal is to leverage data to drive insights, solve complex problems, and support data-informed decision-making within organizations. I am excited about the opportunity to apply my project management experience to data projects, ensuring they are well-organized, efficient, and yield actionable results.
 
-**The Journey Ahead:** I am aware that this transition will be a learning process, but I'm eager to embrace the challenges and continue building my expertise in data science. I'm committed to lifelong learning, and I'm excited to collaborate with data professionals, learn from mentors, and contribute to the growing field of data science.
+
 
 
 [1]: mailto: ajkuda@gmail.com
