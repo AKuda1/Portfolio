@@ -11,7 +11,7 @@ Hello! I'm a passionate and results-driven professional with a strong background
 
 **Background:** With several years of experience as a project manager, I have developed a keen eye for detail, effective communication skills, and the ability to drive complex projects to successful outcomes. Throughout my career, I've had the privilege of working with diverse teams, managing budgets, and meeting tight deadlines – skills that I believe are transferable to the field of data science.
 
-**Why Data Analysis?** My transition into data science is motivated by a profound curiosity about the stories that data can tell. I've always been fascinated by the power of data to inform decision-making, improve processes, and drive business growth. As a project manager, I often found myself relying on data-driven insights to make strategic decisions, which led me to explore this field further.
+**Why Data Science?** My transition into data science is motivated by a profound curiosity about the stories that data can tell. I've always been fascinated by the power of data to inform decision-making, improve processes, and drive business growth. As a project manager, I often found myself relying on data-driven insights to make strategic decisions, which led me to explore this field further.
 
 **Education and Training:** To prepare for this transition, I have invested time in acquiring the necessary skills and knowledge. I've completed courses and certifications in machine learning, deep learning, natural language proccessing, data visualization, and programming languages such as Python. I believe that this foundation, combined with my project management experience, will allow me to excel in this new role.
 
