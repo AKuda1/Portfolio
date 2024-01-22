@@ -1,5 +1,6 @@
 ---
 title: " "
+category: posts
 header:
   overlay_image: assets/images/About Me Background.webp
 permalink: /aboutme/
