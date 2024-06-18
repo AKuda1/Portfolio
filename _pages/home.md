@@ -13,4 +13,6 @@ Thank you for taking time out of your day to view my professional progression th
 ## Certificates
 
 IBM Data Science Certification
+
+
 Cloudera - Big Data Analysis Using SQL (In Progress)
